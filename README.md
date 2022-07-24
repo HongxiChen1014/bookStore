@@ -1,2 +1,2 @@
 # bookStore
-bookStore peoject base on Servlet and jsp
+bookStore project base on Servlet and jsp
